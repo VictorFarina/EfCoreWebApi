@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using ef_web_app.Data;
 using ef_web_app.Models;
 
-namespace ef_web_app.Controllers
+namespace ef_web_app.Controllers 
 {
     [Route("api/[controller]")]
     [ApiController]
